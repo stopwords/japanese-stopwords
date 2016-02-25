@@ -24,7 +24,7 @@ Japanese Stopwords. 日本のストップワード
 3. Via javascript `script` tag.
 
 	```html
-	<script src="//cdn.rawgit.com/duyetdev/japanese-stopwords/dist/japanese-stopword.min.js"></script>
+	<script src="//cdn.rawgit.com/duyetdev/japanese-stopwords/master/dist/japanese-stopword.min.js"></script>
 	<script>
 		console.log(japanese_stopwords); // or window.japanese_stopwords
 	</script>
