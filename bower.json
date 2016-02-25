@@ -1,0 +1,31 @@
+{
+  "name": "japanese-stopwords",
+  "description": "Japanese stopwords, available for npm, bower, plaintext. 日本のストップワード — Edit",
+  "main": "dist/japanese-stopword.min.js",
+  "authors": [
+    "Van-Duyet Le <me@duyetdev.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "japanese",
+    "stopwords",
+    "npm",
+    "duyetdev",
+    "nodejs",
+    "bower",
+    "japansese",
+    "stopwords"
+  ],
+  "homepage": "https://github.com/duyetdev/japanese-stopwords",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
